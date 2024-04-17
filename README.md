@@ -12,7 +12,6 @@ In this repository, you'll find:
 
 - **Problem Solutions**: Solutions to the problems tackled during the contest.
 - **Source Code**: Well-commented code snippets for each solution.
-- **Input/Output Files**: Sample input and output files for testing the solutions.
 - **Documentation**: Additional explanations or insights into the problem-solving approaches.
 
 ## Usage
