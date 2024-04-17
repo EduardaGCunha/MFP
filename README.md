@@ -15,20 +15,6 @@ In this repository, you'll find:
 - **Input/Output Files**: Sample input and output files for testing the solutions.
 - **Documentation**: Additional explanations or insights into the problem-solving approaches.
 
-## Folder Structure
-
-├── Problems
-│ ├── Problem1
-│ │ ├── solution.cpp
-│ │ ├── input.txt
-│ │ └── output.txt
-│ ├── Problem2
-│ │ ├── solution.py
-│ │ ├── input.txt
-│ │ └── output.txt
-│ └── ...
-└── README.md
-
 ## Usage
 
 Feel free to browse through the solutions and code snippets. You can use them as a reference for understanding various problem-solving techniques and implementations. If you'd like to run the solutions yourself:
